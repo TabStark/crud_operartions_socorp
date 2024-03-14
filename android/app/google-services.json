@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "728438298477",
+    "project_id": "isoftronics-b82cd",
+    "storage_bucket": "isoftronics-b82cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728438298477:android:c441eef78fd7c85b1aac64",
+        "android_client_info": {
+          "package_name": "com.example.crud_operartions"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJa5_iHxWsurSxFTWApA9FZ0PS6wp75v8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
